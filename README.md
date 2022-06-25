@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm sekiyan372. My specialty is web development.
+Please call me Sekiyan. My specialty is web development.
 
 ### Interests
 - Web3
